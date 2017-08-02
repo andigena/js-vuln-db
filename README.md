@@ -49,6 +49,7 @@ CVE Number | Feature | Keywords | Credit
 [CVE-2017-0071](./chakra/CVE-2017-0071.md) | Array | Optimization, Type Confusion | _lokihardt [[3]](#projectzero)_
 [CVE-2017-0134](./chakra/CVE-2017-0134.md) | Array.concat | Side Effect, Type Confusion | _Jordan Rabet_
 [CVE-2017-0141](./chakra/CVE-2017-0141.md) | Array.reverse | Side Effect | _Semmle Inc_
+[CVE-2017-0208](./chakra/CVE-2017-0208.md) | String.repeat | Integer overflow | _bee13oy_
 
 ## JavaScriptCore
 CVE Number | Feature | Keywords | Credit
